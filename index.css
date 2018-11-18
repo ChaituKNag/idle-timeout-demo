@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Shrikhand');
+
+h1 {
+    font-family: 'Shrikhand', cursive;
+}
+p {
+    font-family: 'Open Sans', sans-serif;
+}
